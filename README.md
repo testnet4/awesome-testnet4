@@ -24,7 +24,7 @@ A curated, collaborative list of awesome testnet4 resources
 
 ## Pools
 
-= [Vkbit](https://testnet.vkbit.com/)
+- [Vkbit](https://testnet.vkbit.com/)
 
 ## Discussions
 
