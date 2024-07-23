@@ -22,6 +22,10 @@ A curated, collaborative list of awesome testnet4 resources
 
 - [Mempool Space](https://mempool.space/testnet4/)
 
+## Pools
+
+= [Vkbit](https://testnet.vkbit.com/)
+
 ## Discussions
 
 - [Pull Request](https://github.com/bitcoin/bitcoin/pull/29775)
