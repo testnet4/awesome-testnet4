@@ -20,7 +20,7 @@ A curated, collaborative list of awesome testnet4 resources
 
 ## Explorers
 
--[Mempool Space](https://mempool.space/testnet4/)
+- [Mempool Space](https://mempool.space/testnet4/)
 
 ## Discussions
 
