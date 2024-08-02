@@ -26,6 +26,10 @@ A curated, collaborative list of awesome testnet4 resources
 
 - [Vkbit](https://testnet.vkbit.com/)
 
+## BIP-94
+
+- https://github.com/bitcoin/bips/blob/master/bip-0094.mediawiki
+
 ## Discussions
 
 - [Pull Request](https://github.com/bitcoin/bitcoin/pull/29775)
