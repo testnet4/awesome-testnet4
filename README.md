@@ -17,6 +17,7 @@ A curated, collaborative list of awesome testnet4 resources
 - [Mempool Faucet](https://mempool.space/testnet4/faucet)
 - [Coinfaucet](https://coinfaucet.eu/en/btc-testnet4/)
 - [Anyone](https://testnet4.anyone.eu.org/)
+- [Stack Exchange List](https://bitcoin.stackexchange.com/questions/17690/is-there-anywhere-to-get-free-testnet-bitcoins/119937#119937)
 
 ## Explorers
 
