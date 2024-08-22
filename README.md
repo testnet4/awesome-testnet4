@@ -38,3 +38,4 @@ A curated, collaborative list of awesome testnet4 resources
 - [fulcrum merge](https://github.com/cculianu/Fulcrum/issues/249)
 - [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/pull/2945)
 - [Btcd](https://github.com/btcsuite/btcd/issues/2187)
+- [Padawan](https://github.com/thunderbiscuit/padawan-wallet/issues/376)
