@@ -39,3 +39,7 @@ A curated, collaborative list of awesome testnet4 resources
 - [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/pull/2945)
 - [Btcd](https://github.com/btcsuite/btcd/issues/2187)
 - [Padawan](https://github.com/thunderbiscuit/padawan-wallet/issues/376)
+
+## Other Information
+
+- [Explaining Timewarp](https://www.nobsbitcoin.com/bitcoin-optech-316/)
