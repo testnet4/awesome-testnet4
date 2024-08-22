@@ -35,3 +35,4 @@ A curated, collaborative list of awesome testnet4 resources
 
 - [Pull Request](https://github.com/bitcoin/bitcoin/pull/29775)
 - [lnd discussion](https://github.com/lightningnetwork/lnd/issues/8966#issuecomment-2266989362)
+- [fulcrum merge](https://github.com/cculianu/Fulcrum/issues/249)
