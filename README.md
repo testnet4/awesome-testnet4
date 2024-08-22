@@ -37,3 +37,4 @@ A curated, collaborative list of awesome testnet4 resources
 - [lnd discussion](https://github.com/lightningnetwork/lnd/issues/8966#issuecomment-2266989362)
 - [fulcrum merge](https://github.com/cculianu/Fulcrum/issues/249)
 - [Rust Bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/pull/2945)
+- [Btcd](https://github.com/btcsuite/btcd/issues/2187)
