@@ -27,6 +27,12 @@ A curated, collaborative list of awesome testnet4 resources
 
 - [Vkbit](https://testnet.vkbit.com/)
 
+## Market*
+
+- [Altquick](https://altquick.com/exchange/market/BitcoinTestnet4)
+
+* General consensus is that testnet4 coins are worhtless, tho it does trade in small volume.  Be aware if testnet4 trading takes off, then developers may move to another testnet.
+
 ## BIP-94
 
 - https://github.com/bitcoin/bips/blob/master/bip-0094.mediawiki
