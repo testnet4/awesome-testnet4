@@ -46,6 +46,10 @@ A curated, collaborative list of awesome testnet4 resources
 - [Btcd](https://github.com/btcsuite/btcd/issues/2187)
 - [Padawan](https://github.com/thunderbiscuit/padawan-wallet/issues/376)
 
+## Unusual Transactions
+
+- [Negative Balance](https://mempool.space/address/3JP3zF7LoeoAotqkNGdvX5szUyNPwd937d)
+
 ## Other Information
 
 - [Explaining Timewarp](https://www.nobsbitcoin.com/bitcoin-optech-316/)
