@@ -19,6 +19,7 @@ A curated, collaborative list of awesome testnet4 resources
 - [Coinfaucet](https://coinfaucet.eu/en/btc-testnet4/)
 - [Anyone](https://testnet4.anyone.eu.org/)
 - [Testnet4.dev](https://faucet.testnet4.dev/)
+- [Testnet4.info](https://testnet4.info/)
 - [Stack Exchange List](https://bitcoin.stackexchange.com/questions/17690/is-there-anywhere-to-get-free-testnet-bitcoins/119937#119937)
 
 ## Explorers
