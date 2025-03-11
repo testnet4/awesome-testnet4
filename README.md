@@ -10,6 +10,7 @@ A curated, collaborative list of awesome testnet4 resources
  
 ## Sites
 
+- [testnet4.dev](https://testnet4.dev/)
 - [testnet4.com](https://testnet4.com/)
 - [Fork Observer](https://fork.observer/?network=4)
 
