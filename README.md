@@ -7,6 +7,10 @@ A curated, collaborative list of awesome testnet4 resources
 - [Sparrow Wallet](https://sparrowwallet.com/)
 - [Web Wallet](https://t4-wallet.anyone.eu.org/)
 - [Wizz Wallet](https://wizzwallet.io/)
+
+## Lightning
+
+- [LND](https://github.com/lightningnetwork/lnd/pull/9620)
  
 ## Sites
 
