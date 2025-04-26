@@ -33,7 +33,7 @@ A curated, collaborative list of awesome testnet4 resources
 
 ## Pools
 
-- [Vkbit](https://testnet.vkbit.com/)
+- [BTCLab.dev](https://testnet4.btclab.dev/)
 
 ## Market*
 
