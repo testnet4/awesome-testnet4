@@ -7,6 +7,7 @@ A curated, collaborative list of awesome testnet4 resources
 - [Sparrow Wallet](https://sparrowwallet.com/)
 - [Web Wallet](https://t4-wallet.anyone.eu.org/)
 - [Wizz Wallet](https://wizzwallet.io/)
+- [Devkit Wallet (Android)](https://github.com/bitcoindevkit/devkit-wallet)
 
 ## Lightning
 
