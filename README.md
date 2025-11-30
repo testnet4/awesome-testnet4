@@ -4,6 +4,7 @@ A curated, collaborative list of awesome testnet4 resources
 
 ## Wallets
 
+- [Testnet4 Web Wallet](https://testnet4.github.io/wallet/)
 - [Sparrow Wallet](https://sparrowwallet.com/)
 - [Web Wallet](https://t4-wallet.anyone.eu.org/)
 - [Wizz Wallet](https://wizzwallet.io/)
