@@ -27,6 +27,7 @@ A curated, collaborative list of awesome testnet4 resources
 - [Testnet4.dev](https://faucet.testnet4.dev/)
 - [Testnet4.info](https://testnet4.info/)
 - [Eternity Bits Faucet](https://eternitybits.com/faucet/)
+- [AltQuick Faucet](https://altquick.com/faucet/) (0.01 tBTC4 every 10 minutes, free account required)
 - [Stack Exchange List](https://bitcoin.stackexchange.com/questions/17690/is-there-anywhere-to-get-free-testnet-bitcoins/119937#119937)
 
 ## Explorers
@@ -39,7 +40,7 @@ A curated, collaborative list of awesome testnet4 resources
 
 ## Market*
 
-- [Altquick](https://altquick.com/exchange/market/BitcoinTestnet4)
+- [AltQuick](https://altquick.com/market/bitcoin-testnet4-bitcoin/)
 
 * General consensus is that testnet4 coins are worhtless, tho it does trade in small volume.  Be aware if testnet4 trading takes off, then developers may move to another testnet.
 
